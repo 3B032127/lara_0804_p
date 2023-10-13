@@ -1,0 +1,15 @@
+{
+    "name": "rwei/lara_0804",
+    "autoload": {
+        "psr-4": {
+            "Rwei\\Lara0804\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rwei920821",
+            "email": "72637277+rwei920821@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
